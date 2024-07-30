@@ -50,5 +50,6 @@
 .lista-menu__item {
   padding: 1em;
 }
-
-        
+.cabecalho_menu-hamburguer{
+  background-image: url("../img/Menu.svg"); 
+}
